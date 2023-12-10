@@ -1,0 +1,21 @@
+2023-12-07 04:24:51.374 -03:00 [INF] =========================Iniciando log=====================================
+2023-12-07 04:24:52.298 -03:00 [INF] Now listening on: https://localhost:7200
+2023-12-07 04:24:52.299 -03:00 [INF] Now listening on: http://localhost:5257
+2023-12-07 04:24:52.302 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-07 04:24:52.303 -03:00 [INF] Hosting environment: Development
+2023-12-07 04:24:52.303 -03:00 [INF] Content root path: C:\Users\danie\OneDrive\Área de Trabalho\ConsultorioClimil\01.ConsultorioClimil.WebApi
+2023-12-07 04:24:53.937 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/index.html - -
+2023-12-07 04:24:54.059 -03:00 [WRN] FluentValidationOperationFilter should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'
+2023-12-07 04:24:54.065 -03:00 [WRN] FluentValidationRules should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'
+2023-12-07 04:24:54.323 -03:00 [INF] HTTP GET /index.html responded 200 in 352.6801 ms
+2023-12-07 04:24:54.365 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/index.html - - - 200 - text/html;charset=utf-8 431.3532ms
+2023-12-07 04:24:54.480 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - -
+2023-12-07 04:24:54.486 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - - - 200 12024 application/javascript;+charset=utf-8 6.2536ms
+2023-12-07 04:24:54.538 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_vs/browserLink - -
+2023-12-07 04:24:54.644 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 106.0954ms
+2023-12-07 04:24:54.739 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - -
+2023-12-07 04:24:54.963 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 222.8055 ms
+2023-12-07 04:24:54.963 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 224.1575ms
+2023-12-07 04:24:57.090 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - -
+2023-12-07 04:24:57.129 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 38.4218 ms
+2023-12-07 04:24:57.130 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 39.7486ms

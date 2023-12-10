@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.ConsultorioClimil.WebApi", "01.ConsultorioClimil.WebApi", "{D94B28A0-52DD-4096-8069-B0C084C78FB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.ConsultorioClimil.Core", "02.ConsultorioClimil.Core", "{561C3979-6A45-4ACE-846A-91C6D47C3D5B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.ConsultorioClimil.Manager", "03.ConsultorioClimil.Manager", "{C2A809E9-5B50-4C3E-A933-67438EEBAE9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.ConsultorioClimil.Data", "04.ConsultorioClimil.Data", "{67AD7B6F-0A0D-4819-A17D-8B13B3D8E4C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.ConsultorioClimil.Teste", "05.ConsultorioClimil.Teste", "{AE8CC42E-F19D-48E8-9D50-F2A8157A9829}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ConsultorioClimil.WebApi", "01.ConsultorioClimil.WebApi\01.ConsultorioClimil.WebApi.csproj", "{1942AA89-A4C7-46BE-8268-6B327A195D7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.ConsultorioClimil.Core", "02.ConsultorioClimil.Core\02.ConsultorioClimil.Core.csproj", "{E7AE1A8F-E83A-4051-9DBC-FC0F4DA4FA55}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.ConsultorioClimil.Manager", "03.ConsultorioClimil.Manager\03.ConsultorioClimil.Manager.csproj", "{2DA791DF-0078-4781-824B-310BDBE755CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.ConsultorioClimil.Data", "04.ConsultorioClimil.Data\04.ConsultorioClimil.Data.csproj", "{607C1C95-CE63-460D-B753-F396F5DCA607}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.ConsultorioClimil.Teste", "05.ConsultorioClimil.Teste\05.ConsultorioClimil.Teste.csproj", "{48709657-AF10-4F03-B7B5-72643482C3AC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsultorioClimil.Core.Shared", "ConsultorioClimil.Core.Shared\ConsultorioClimil.Core.Shared.csproj", "{8FA2E7C6-0FC5-49D3-A3A7-2BBF123AD894}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1942AA89-A4C7-46BE-8268-6B327A195D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1942AA89-A4C7-46BE-8268-6B327A195D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1942AA89-A4C7-46BE-8268-6B327A195D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1942AA89-A4C7-46BE-8268-6B327A195D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7AE1A8F-E83A-4051-9DBC-FC0F4DA4FA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7AE1A8F-E83A-4051-9DBC-FC0F4DA4FA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7AE1A8F-E83A-4051-9DBC-FC0F4DA4FA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7AE1A8F-E83A-4051-9DBC-FC0F4DA4FA55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA791DF-0078-4781-824B-310BDBE755CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA791DF-0078-4781-824B-310BDBE755CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA791DF-0078-4781-824B-310BDBE755CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA791DF-0078-4781-824B-310BDBE755CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{607C1C95-CE63-460D-B753-F396F5DCA607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607C1C95-CE63-460D-B753-F396F5DCA607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607C1C95-CE63-460D-B753-F396F5DCA607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607C1C95-CE63-460D-B753-F396F5DCA607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48709657-AF10-4F03-B7B5-72643482C3AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48709657-AF10-4F03-B7B5-72643482C3AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48709657-AF10-4F03-B7B5-72643482C3AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48709657-AF10-4F03-B7B5-72643482C3AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA2E7C6-0FC5-49D3-A3A7-2BBF123AD894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA2E7C6-0FC5-49D3-A3A7-2BBF123AD894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA2E7C6-0FC5-49D3-A3A7-2BBF123AD894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA2E7C6-0FC5-49D3-A3A7-2BBF123AD894}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1942AA89-A4C7-46BE-8268-6B327A195D7D} = {D94B28A0-52DD-4096-8069-B0C084C78FB5}
+		{E7AE1A8F-E83A-4051-9DBC-FC0F4DA4FA55} = {561C3979-6A45-4ACE-846A-91C6D47C3D5B}
+		{2DA791DF-0078-4781-824B-310BDBE755CD} = {C2A809E9-5B50-4C3E-A933-67438EEBAE9B}
+		{607C1C95-CE63-460D-B753-F396F5DCA607} = {67AD7B6F-0A0D-4819-A17D-8B13B3D8E4C5}
+		{48709657-AF10-4F03-B7B5-72643482C3AC} = {AE8CC42E-F19D-48E8-9D50-F2A8157A9829}
+		{8FA2E7C6-0FC5-49D3-A3A7-2BBF123AD894} = {561C3979-6A45-4ACE-846A-91C6D47C3D5B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08539952-58CD-438C-A377-EC04CA6E3E5D}
+	EndGlobalSection
+EndGlobal

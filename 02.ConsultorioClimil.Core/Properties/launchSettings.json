@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "02.ConsultorioClimil.Core": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:51147;http://localhost:51149"
+    }
+  }
+}

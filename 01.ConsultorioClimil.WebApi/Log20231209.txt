@@ -1,0 +1,91 @@
+2023-12-09 16:58:31.419 -03:00 [INF] =========================Iniciando log=====================================
+2023-12-09 16:58:32.965 -03:00 [INF] Now listening on: https://localhost:7200
+2023-12-09 16:58:32.967 -03:00 [INF] Now listening on: http://localhost:5257
+2023-12-09 16:58:32.970 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-09 16:58:32.971 -03:00 [INF] Hosting environment: Development
+2023-12-09 16:58:32.971 -03:00 [INF] Content root path: C:\Users\danie\OneDrive\Área de Trabalho\ConsultorioClimil\01.ConsultorioClimil.WebApi
+2023-12-09 16:58:36.716 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/ - -
+2023-12-09 16:58:36.910 -03:00 [WRN] FluentValidationOperationFilter should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'
+2023-12-09 16:58:36.921 -03:00 [WRN] FluentValidationRules should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'
+2023-12-09 16:58:36.933 -03:00 [INF] HTTP GET / responded 301 in 170.2697 ms
+2023-12-09 16:58:36.940 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/ - - - 301 0 - 226.2307ms
+2023-12-09 16:58:37.017 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/index.html - -
+2023-12-09 16:58:37.421 -03:00 [INF] HTTP GET /index.html responded 200 in 402.2668 ms
+2023-12-09 16:58:37.445 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/index.html - - - 200 - text/html;charset=utf-8 428.3208ms
+2023-12-09 16:58:37.593 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/swagger-ui.css - -
+2023-12-09 16:58:37.597 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/swagger-ui-standalone-preset.js - -
+2023-12-09 16:58:37.597 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/swagger-ui-bundle.js - -
+2023-12-09 16:58:37.707 -03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-12-09 16:58:37.707 -03:00 [INF] HTTP GET /swagger-ui.css responded 200 in 109.0763 ms
+2023-12-09 16:58:37.707 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/swagger-ui.css - - - 200 143943 text/css 114.6246ms
+2023-12-09 16:58:37.750 -03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-12-09 16:58:37.750 -03:00 [INF] HTTP GET /swagger-ui-standalone-preset.js responded 200 in 152.6201 ms
+2023-12-09 16:58:37.751 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/swagger-ui-standalone-preset.js - - - 200 339486 text/javascript 153.9674ms
+2023-12-09 16:58:37.836 -03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-12-09 16:58:37.837 -03:00 [INF] HTTP GET /swagger-ui-bundle.js responded 200 in 238.6662 ms
+2023-12-09 16:58:37.837 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/swagger-ui-bundle.js - - - 200 1096145 text/javascript 239.9750ms
+2023-12-09 16:58:37.982 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - -
+2023-12-09 16:58:37.987 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - - - 200 12024 application/javascript;+charset=utf-8 4.9237ms
+2023-12-09 16:58:37.996 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_vs/browserLink - -
+2023-12-09 16:58:38.096 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 99.7624ms
+2023-12-09 16:58:38.391 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - -
+2023-12-09 16:58:38.643 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/favicon-32x32.png - -
+2023-12-09 16:58:38.644 -03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2023-12-09 16:58:38.644 -03:00 [INF] HTTP GET /favicon-32x32.png responded 200 in 0.8564 ms
+2023-12-09 16:58:38.645 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/favicon-32x32.png - - - 200 628 image/png 1.2262ms
+2023-12-09 16:58:38.728 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 337.5185 ms
+2023-12-09 16:58:38.729 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 338.0002ms
+2023-12-09 17:02:58.444 -03:00 [INF] =========================Iniciando log=====================================
+2023-12-09 17:02:59.456 -03:00 [INF] Now listening on: https://localhost:7200
+2023-12-09 17:02:59.457 -03:00 [INF] Now listening on: http://localhost:5257
+2023-12-09 17:02:59.459 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-09 17:02:59.460 -03:00 [INF] Hosting environment: Development
+2023-12-09 17:02:59.460 -03:00 [INF] Content root path: C:\Users\danie\OneDrive\Área de Trabalho\ConsultorioClimil\01.ConsultorioClimil.WebApi
+2023-12-09 17:03:00.688 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/index.html - -
+2023-12-09 17:03:00.846 -03:00 [WRN] FluentValidationOperationFilter should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'
+2023-12-09 17:03:00.855 -03:00 [WRN] FluentValidationRules should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'
+2023-12-09 17:03:01.075 -03:00 [INF] HTTP GET /index.html responded 200 in 342.7994 ms
+2023-12-09 17:03:01.123 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/index.html - - - 200 - text/html;charset=utf-8 439.0087ms
+2023-12-09 17:03:01.207 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - -
+2023-12-09 17:03:01.241 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - - - 200 12024 application/javascript;+charset=utf-8 34.7427ms
+2023-12-09 17:03:01.331 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_vs/browserLink - -
+2023-12-09 17:03:01.415 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 84.0506ms
+2023-12-09 17:03:01.705 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - -
+2023-12-09 17:03:02.025 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 318.4030 ms
+2023-12-09 17:03:02.026 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 320.0910ms
+2023-12-09 17:04:31.972 -03:00 [INF] =========================Iniciando log=====================================
+2023-12-09 17:04:32.772 -03:00 [INF] Now listening on: https://localhost:7200
+2023-12-09 17:04:32.773 -03:00 [INF] Now listening on: http://localhost:5257
+2023-12-09 17:04:32.777 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-09 17:04:32.777 -03:00 [INF] Hosting environment: Development
+2023-12-09 17:04:32.778 -03:00 [INF] Content root path: C:\Users\danie\OneDrive\Área de Trabalho\ConsultorioClimil\01.ConsultorioClimil.WebApi
+2023-12-09 17:04:34.227 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/index.html - -
+2023-12-09 17:04:34.347 -03:00 [WRN] FluentValidationOperationFilter should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'
+2023-12-09 17:04:34.356 -03:00 [WRN] FluentValidationRules should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'
+2023-12-09 17:04:34.612 -03:00 [INF] HTTP GET /index.html responded 200 in 337.2704 ms
+2023-12-09 17:04:34.656 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/index.html - - - 200 - text/html;charset=utf-8 432.5082ms
+2023-12-09 17:04:34.741 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - -
+2023-12-09 17:04:34.747 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - - - 200 12024 application/javascript;+charset=utf-8 5.9037ms
+2023-12-09 17:04:34.833 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_vs/browserLink - -
+2023-12-09 17:04:34.887 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 53.6679ms
+2023-12-09 17:04:35.014 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - -
+2023-12-09 17:04:35.285 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 269.9493 ms
+2023-12-09 17:04:35.286 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 271.6266ms
+2023-12-09 17:06:22.416 -03:00 [INF] =========================Iniciando log=====================================
+2023-12-09 17:06:23.186 -03:00 [INF] Now listening on: https://localhost:7200
+2023-12-09 17:06:23.187 -03:00 [INF] Now listening on: http://localhost:5257
+2023-12-09 17:06:23.189 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-09 17:06:23.189 -03:00 [INF] Hosting environment: Development
+2023-12-09 17:06:23.190 -03:00 [INF] Content root path: C:\Users\danie\OneDrive\Área de Trabalho\ConsultorioClimil\01.ConsultorioClimil.WebApi
+2023-12-09 17:06:23.949 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/index.html - -
+2023-12-09 17:06:24.052 -03:00 [WRN] FluentValidationOperationFilter should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'
+2023-12-09 17:06:24.060 -03:00 [WRN] FluentValidationRules should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'
+2023-12-09 17:06:24.366 -03:00 [INF] HTTP GET /index.html responded 200 in 380.5933 ms
+2023-12-09 17:06:24.400 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/index.html - - - 200 - text/html;charset=utf-8 454.6426ms
+2023-12-09 17:06:24.474 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - -
+2023-12-09 17:06:24.488 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - - - 200 12024 application/javascript;+charset=utf-8 14.1969ms
+2023-12-09 17:06:24.612 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_vs/browserLink - -
+2023-12-09 17:06:24.732 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 120.0298ms
+2023-12-09 17:06:24.846 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - -
+2023-12-09 17:06:25.225 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 376.6096 ms
+2023-12-09 17:06:25.225 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 379.8678ms

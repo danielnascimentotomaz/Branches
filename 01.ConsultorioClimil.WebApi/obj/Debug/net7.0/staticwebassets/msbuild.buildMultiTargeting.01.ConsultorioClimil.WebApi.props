@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\01.ConsultorioClimil.WebApi.props" />
+</Project>

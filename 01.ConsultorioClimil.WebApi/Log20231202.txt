@@ -1,0 +1,45 @@
+2023-12-02 00:42:50.789 -03:00 [INF] =========================Iniciando log=====================================
+2023-12-02 00:42:52.243 -03:00 [INF] Now listening on: https://localhost:7200
+2023-12-02 00:42:52.246 -03:00 [INF] Now listening on: http://localhost:5257
+2023-12-02 00:42:52.251 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-02 00:42:52.252 -03:00 [INF] Hosting environment: Development
+2023-12-02 00:42:52.252 -03:00 [INF] Content root path: C:\Users\danie\OneDrive\Área de Trabalho\ConsultorioClimil\01.ConsultorioClimil.WebApi
+2023-12-02 00:42:55.026 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/index.html - -
+2023-12-02 00:42:55.236 -03:00 [WRN] FluentValidationOperationFilter should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'
+2023-12-02 00:42:55.253 -03:00 [WRN] FluentValidationRules should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'
+2023-12-02 00:42:55.780 -03:00 [INF] HTTP GET /index.html responded 200 in 660.0350 ms
+2023-12-02 00:42:55.837 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/index.html - - - 200 - text/html;charset=utf-8 822.4011ms
+2023-12-02 00:42:55.953 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - -
+2023-12-02 00:42:55.968 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - - - 200 12024 application/javascript;+charset=utf-8 15.0051ms
+2023-12-02 00:42:56.103 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_vs/browserLink - -
+2023-12-02 00:42:56.337 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 233.8154ms
+2023-12-02 00:42:56.530 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - -
+2023-12-02 00:42:57.070 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 538.4411 ms
+2023-12-02 00:42:57.071 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 540.3343ms
+2023-12-02 02:38:08.358 -03:00 [INF] =========================Iniciando log=====================================
+2023-12-02 02:38:09.272 -03:00 [INF] Now listening on: https://localhost:7200
+2023-12-02 02:38:09.273 -03:00 [INF] Now listening on: http://localhost:5257
+2023-12-02 02:38:09.275 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-02 02:38:09.275 -03:00 [INF] Hosting environment: Development
+2023-12-02 02:38:09.276 -03:00 [INF] Content root path: C:\Users\danie\OneDrive\Área de Trabalho\ConsultorioClimil\01.ConsultorioClimil.WebApi
+2023-12-02 02:38:10.369 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/index.html - -
+2023-12-02 02:38:10.556 -03:00 [WRN] FluentValidationOperationFilter should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'
+2023-12-02 02:38:10.567 -03:00 [WRN] FluentValidationRules should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'
+2023-12-02 02:38:10.789 -03:00 [INF] HTTP GET /index.html responded 200 in 376.0520 ms
+2023-12-02 02:38:10.826 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/index.html - - - 200 - text/html;charset=utf-8 460.5704ms
+2023-12-02 02:38:10.892 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - -
+2023-12-02 02:38:10.900 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_framework/aspnetcore-browser-refresh.js - - - 200 12024 application/javascript;+charset=utf-8 7.6051ms
+2023-12-02 02:38:10.938 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/_vs/browserLink - -
+2023-12-02 02:38:11.050 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 112.2220ms
+2023-12-02 02:38:11.187 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - -
+2023-12-02 02:38:11.522 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 333.4594 ms
+2023-12-02 02:38:11.522 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 335.2049ms
+2023-12-02 02:38:50.050 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7200/ConsultorioClimil - -
+2023-12-02 02:38:50.095 -03:00 [INF] Executing endpoint '_01.ConsultorioClimil.WebApi.Controllers.ConsultorioClimilController.GetAllClienteAsync (01.ConsultorioClimil.WebApi)'
+2023-12-02 02:38:50.140 -03:00 [INF] Route matched with {action = "GetAllCliente", controller = "ConsultorioClimil"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllClienteAsync() on controller _01.ConsultorioClimil.WebApi.Controllers.ConsultorioClimilController (01.ConsultorioClimil.WebApi).
+2023-12-02 02:38:50.317 -03:00 [INF] Buscando todos os clintes
+2023-12-02 02:38:53.916 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[_02.ConsultorioClimil.Core.Domain.Cliente, 02.ConsultorioClimil.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-12-02 02:38:53.947 -03:00 [INF] Executed action _01.ConsultorioClimil.WebApi.Controllers.ConsultorioClimilController.GetAllClienteAsync (01.ConsultorioClimil.WebApi) in 3802.3203ms
+2023-12-02 02:38:53.948 -03:00 [INF] Executed endpoint '_01.ConsultorioClimil.WebApi.Controllers.ConsultorioClimilController.GetAllClienteAsync (01.ConsultorioClimil.WebApi)'
+2023-12-02 02:38:53.948 -03:00 [INF] HTTP GET /ConsultorioClimil responded 200 in 3895.2228 ms
+2023-12-02 02:38:53.960 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7200/ConsultorioClimil - - - 200 - application/json;+charset=utf-8 3910.3191ms

@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>_01.ConsultorioClimil.WebApi</RootNamespace>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    
+	  
+
+  </PropertyGroup>
+
+
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+    <PackageReference Include="MicroElements.Swashbuckle.FluentValidation" Version="5.7.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="8.0.0" />
+    <PackageReference Include="Serilog.Sinks.Async" Version="1.5.0" />
+    <PackageReference Include="Serilog.Sinks.File" Version="5.0.1-dev-00968" />
+   
+	<PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+
+
+
+
+	  <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.0" />
+
+	  
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\02.ConsultorioClimil.Core\02.ConsultorioClimil.Core.csproj" />
+    <ProjectReference Include="..\03.ConsultorioClimil.Manager\03.ConsultorioClimil.Manager.csproj" />
+    <ProjectReference Include="..\04.ConsultorioClimil.Data\04.ConsultorioClimil.Data.csproj" />
+    <ProjectReference Include="..\ConsultorioClimil.Core.Shared\ConsultorioClimil.Core.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

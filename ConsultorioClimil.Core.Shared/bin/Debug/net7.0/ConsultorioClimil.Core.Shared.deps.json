@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ConsultorioClimil.Core.Shared/1.0.0": {
+        "dependencies": {
+          "02.ConsultorioClimil.Core": "1.0.0"
+        },
+        "runtime": {
+          "ConsultorioClimil.Core.Shared.dll": {}
+        }
+      },
+      "02.ConsultorioClimil.Core/1.0.0": {
+        "runtime": {
+          "02.ConsultorioClimil.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsultorioClimil.Core.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "02.ConsultorioClimil.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
