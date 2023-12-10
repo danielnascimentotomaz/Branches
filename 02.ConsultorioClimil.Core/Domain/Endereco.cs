@@ -22,6 +22,10 @@ namespace _02.ConsultorioClimil.Core.Domain
 
         public string Complemento { get; set; }
         public string PontoReferncia { get; set; }
+
+        public string Nome { get; set; }
+
+
         
        
 
